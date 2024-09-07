@@ -1,5 +1,3 @@
-# Laboratory works on OS
+# Laboratory works on IS
 
-# YouTube: https://www.youtube.com/playlist?list=PL0NzR1_rM_SF1ECaM9aBD_YRTUczFx2wN
 
-![readme](laboratory/lab03/report03/image03/readme.jpg)
